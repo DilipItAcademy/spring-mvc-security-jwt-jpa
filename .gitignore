@@ -1,0 +1,8 @@
+
+.project
+*.class
+*.MF
+*.prefs
+target/
+.settings
+.classpath
